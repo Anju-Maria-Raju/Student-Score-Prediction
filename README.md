@@ -1,4 +1,6 @@
 # Student-Score-Prediction
+Internship at The Sparks Foundation
+TASK 1
 
  ## Objective
  The aim of the project is to built a model to predict score of students based on hours of study.
